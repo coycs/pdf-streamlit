@@ -28,7 +28,7 @@ def resolve_toc(txt):
     return toc_list
 
 # source code
-st.markdown("Source Code: [https://github.com/coycs/pdf-streamlit](https://github.com/coycs/pdf-streamlit)")
+st.markdown("Source Code: [https://github.com/coycs/pdf-streamlit/blob/main/pages/1_add%20catalog.py](https://github.com/coycs/pdf-streamlit/blob/main/pages/1_add%20catalog.py)")
 
 # catalog example
 st.text("Catalog example: ")
